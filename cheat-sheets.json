@@ -827,6 +827,10 @@
         "path": "Cheat Sheets/Solutions/Solutions Automation.md"
       },
       {
+        "name": "Solutions/Solutions CICD",
+        "path": "Cheat Sheets/Solutions/Solutions CICD.md"
+      },
+      {
         "name": "Solutions/Solutions Loadbalancing",
         "path": "Cheat Sheets/Solutions/Solutions Loadbalancing.md"
       },
@@ -954,6 +958,10 @@
       {
         "name": "systemd",
         "path": "runbooks/systemd.md"
+      },
+      {
+        "name": "who",
+        "path": "runbooks/who.md"
       }
     ]
   },
@@ -1228,6 +1236,10 @@
       {
         "name": "README",
         "path": "README.md"
+      },
+      {
+        "name": "Reddit/2019",
+        "path": "Reddit/2019.md"
       },
       {
         "name": "Uber/Data Platform/2014 RDBMs",
