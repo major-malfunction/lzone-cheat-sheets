@@ -19,10 +19,6 @@
         "path": "Cheat Sheets/Automation/Chef.md"
       },
       {
-        "name": "Automation/IT-Ops",
-        "path": "Cheat Sheets/Automation/IT-Ops.md"
-      },
-      {
         "name": "Automation/Jinja",
         "path": "Cheat Sheets/Automation/Jinja.md"
       },
@@ -43,20 +39,12 @@
         "path": "Cheat Sheets/Automation/Puppet.md"
       },
       {
-        "name": "Automation/README",
-        "path": "Cheat Sheets/Automation/README.md"
-      },
-      {
         "name": "Automation/SaltStack",
         "path": "Cheat Sheets/Automation/SaltStack.md"
       },
       {
         "name": "Automation/Swagger",
         "path": "Cheat Sheets/Automation/Swagger.md"
-      },
-      {
-        "name": "Automation/Terraform",
-        "path": "Cheat Sheets/Automation/Terraform.md"
       },
       {
         "name": "CICD/ArgoCD",
@@ -149,6 +137,10 @@
       {
         "name": "Cloud/S3",
         "path": "Cheat Sheets/Cloud/S3.md"
+      },
+      {
+        "name": "Cloud/Terraform",
+        "path": "Cheat Sheets/Cloud/Terraform.md"
       },
       {
         "name": "Cloud/VM Tuning",
@@ -827,12 +819,28 @@
         "path": "Cheat Sheets/Solutions/Service Architecture.md"
       },
       {
+        "name": "Solutions/Solutions Auth",
+        "path": "Cheat Sheets/Solutions/Solutions Auth.md"
+      },
+      {
         "name": "Solutions/Solutions Automation",
         "path": "Cheat Sheets/Solutions/Solutions Automation.md"
       },
       {
         "name": "Solutions/Solutions CICD",
         "path": "Cheat Sheets/Solutions/Solutions CICD.md"
+      },
+      {
+        "name": "Solutions/Solutions Firewall",
+        "path": "Cheat Sheets/Solutions/Solutions Firewall.md"
+      },
+      {
+        "name": "Solutions/Solutions Hosting",
+        "path": "Cheat Sheets/Solutions/Solutions Hosting.md"
+      },
+      {
+        "name": "Solutions/Solutions Install Server",
+        "path": "Cheat Sheets/Solutions/Solutions Install Server.md"
       },
       {
         "name": "Solutions/Solutions Loadbalancing",
@@ -845,6 +853,10 @@
       {
         "name": "Solutions/Solutions NoSQL",
         "path": "Cheat Sheets/Solutions/Solutions NoSQL.md"
+      },
+      {
+        "name": "Solutions/Solutions Orchestration",
+        "path": "Cheat Sheets/Solutions/Solutions Orchestration.md"
       },
       {
         "name": "Solutions/Solutions Virtualization",
