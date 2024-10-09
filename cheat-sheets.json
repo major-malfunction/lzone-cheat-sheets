@@ -27,10 +27,6 @@
         "path": "Cheat Sheets/Automation/Mcollective.md"
       },
       {
-        "name": "Automation/Monitoring",
-        "path": "Cheat Sheets/Automation/Monitoring.md"
-      },
-      {
         "name": "Automation/Puppet - Hiera",
         "path": "Cheat Sheets/Automation/Puppet - Hiera.md"
       },
@@ -583,6 +579,26 @@
         "path": "Cheat Sheets/Mobile/adb.md"
       },
       {
+        "name": "Monitoring/Grafana",
+        "path": "Cheat Sheets/Monitoring/Grafana.md"
+      },
+      {
+        "name": "Monitoring/Graphite",
+        "path": "Cheat Sheets/Monitoring/Graphite.md"
+      },
+      {
+        "name": "Monitoring/Munin",
+        "path": "Cheat Sheets/Monitoring/Munin.md"
+      },
+      {
+        "name": "Monitoring/Nagios",
+        "path": "Cheat Sheets/Monitoring/Nagios.md"
+      },
+      {
+        "name": "Monitoring/Prometheus",
+        "path": "Cheat Sheets/Monitoring/Prometheus.md"
+      },
+      {
         "name": "Network/Linux-Networking",
         "path": "Cheat Sheets/Network/Linux-Networking.md"
       },
@@ -913,10 +929,6 @@
       {
         "name": "kubernetes/PKS",
         "path": "Cheat Sheets/kubernetes/PKS.md"
-      },
-      {
-        "name": "kubernetes/Prometheus",
-        "path": "Cheat Sheets/kubernetes/Prometheus.md"
       },
       {
         "name": "kubernetes/Tekton",
